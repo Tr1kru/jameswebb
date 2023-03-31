@@ -1,0 +1,195 @@
+/* CSS Document */
+
+body {
+	background-color: black;
+}
+
+h1 {
+	font-weight: bold;
+}
+
+h2 {
+	
+}
+
+h5 {
+	text-align: center;
+}
+
+blockquote {
+	
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
+    
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+input {
+    height: 5em;
+	width: 20em;
+	border-radius: 10px;
+	padding-left: 25px;
+	padding-right: 25px;
+	font-size: 1em;
+	font-weight: bold;
+	border: 10px double lightskyblue; 
+}
+
+.frmButton {
+	width: 10em;	
+}
+
+.frmButton:active {
+	
+}
+
+main {
+	
+}
+
+#container {
+	padding: 3% 0;
+	margin: 0 auto;
+	min-height: 500px;
+	font-size: 1.8em;
+	width: 80%;
+	background-color: white;
+	color: lightskyblue;
+
+}
+
+.h1 {
+	background-color: white;
+	text-align: center;
+	color: lightskyblue;
+}
+
+.logo {
+	max-height: 600px;
+	max-width: 600px;
+	
+}
+
+.nep {
+	max-height: 600px;
+	max-width: 600px;
+	float: right;
+	margin: 0 2%;
+}
+
+.taran {
+	max-height: 600px;
+	max-width: 600px;
+	float: right;
+	margin: 0 2%;
+}
+
+.cart {
+	max-height: 600px;
+	max-width: 600px;
+	float: right;
+	margin: 0 2%;
+}
+
+.cosmic {
+	max-height: 600px;
+	max-width: 600px;
+	float: right;
+	margin: 0 2%;
+}
+
+.news {
+	max-height: 400px;
+	max-width: 400px;
+	float: right;
+	margin: 0 2%;
+}
+
+
+.hnav {
+	padding: 5px 0;
+	width: 100%;
+	min-height: 50px;
+	background-color: black;
+	
+}
+
+.hnav ul {
+	display: block;
+	text-align: center;
+}
+
+.hnav ul li {
+	display: inline-block;
+	list-style: none;
+	width: 10%;
+	margin-top: .8%;
+	background-color: lightskyblue;
+	
+}
+
+.hnav a {
+	text-decoration: none;
+	font-size: 1em;
+}
+
+.hnav a:hover {
+	color: white;
+}
+
+
+
+
+
+
+footer {
+	background-color: white;
+	color: lightskyblue;
+}
+
+.fnav {
+	padding: 5px 0;
+	width: 100%;
+	min-height: 50px;
+	background-color: black;
+}
+
+.fnav ul {
+	display: block;
+	text-align: center;
+}
+
+.fnav ul li {
+	display: inline-block;
+	list-style: none;
+	width: 10%;
+	margin-top: .8%;
+	background-color: lightskyblue;
+}
+
+.fnav a {
+	text-decoration: none;
+	font-size: 1em;
+}
+
+.fnav a:hover {
+	color: white;
+	
+}
