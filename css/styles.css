@@ -154,6 +154,10 @@ main {
 	color: white;
 }
 
+.hnav a:active {
+	color: lightskyblue;
+}
+
 
 
 
@@ -192,4 +196,8 @@ footer {
 .fnav a:hover {
 	color: white;
 	
+}
+
+.hnav a:active {
+	color: lightskyblue;
 }
